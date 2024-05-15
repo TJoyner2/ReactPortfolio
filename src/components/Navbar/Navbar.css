@@ -2,7 +2,11 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 20px 200px;
+    margin: 20px 170px;
+}
+
+.navbar:nav-menu{
+    color: #0a3a64;
 }
 
 .nav-menu{
@@ -14,7 +18,7 @@
 }
 
 .nav-connect{
-   padding: 20px 40px;
+   padding: 10px 30px;
    border-radius: 50px;
    background: linear-gradient(250deg, #50B2DF .36%, #0A2164 102.06%);
    font-size: 22px;
@@ -23,5 +27,5 @@
 }
 
 .nav-connect:hover{
-    transform: scale(1.05);
+    transform: scale(2.05);
 }

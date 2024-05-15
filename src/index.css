@@ -5,6 +5,8 @@
 
 body{
     height: 100vh;
-    background: #010101;
-    color: #ffffff;
+    background: #ffffff;
+    color: #0A2164;
+    padding: 50px;
+    font-family: 'outfit';
 }
