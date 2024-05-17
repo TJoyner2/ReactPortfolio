@@ -8,11 +8,11 @@ const About = () => {
         <div className='about'>
             <div className="about-title">
                 <h1>About Me</h1>
-                <img src={unc} alt="" style={{width: '45%', height: 'auto'}}/>
+                <img src={unc} alt="" style={{width: '40%', height: 'auto'}}/>
             </div>
             <div className="about-sections">
                 <div className="about-left">
-                  <img src={headShot} alt="" style={{width: '105%', height: 'auto'}}/>  
+                  <img src={headShot} alt="" style={{width: '90%', height: 'auto'}}/>  
                 </div>
                 <div className="about-right">
                     <div className="about-p">

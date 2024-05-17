@@ -7,6 +7,13 @@
     margin: 80px 170px;
 }
 
+.about h1{
+    background: linear-gradient(250deg, #50B2DF .36%, #0A2164 102.06%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .about-title{
     position: relative;
 }
