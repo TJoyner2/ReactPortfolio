@@ -79,8 +79,8 @@
 }
 
 .services-format:hover{
-    border: 2px solid #50B2DF;
-    background-image: linear-gradient(250deg,#0A2164 102.06% #50B2DF .36%, );
+    border: 2px solid red;
+    background-image: linear-gradient(250deg,#0A2164 50% #50B2DF 50%, );
     transform: scale(1.05);
     transition: 0.4s;
 }

@@ -12,7 +12,7 @@ const About = () => {
             </div>
             <div className="about-sections">
                 <div className="about-left">
-                  <img src={headShot} alt="" style={{width: '90%', height: 'auto'}}/>  
+                  <img src={headShot} alt="" style={{width: '70%', height: 'auto'}}/>  
                 </div>
                 <div className="about-right">
                     <div className="about-p">
@@ -20,10 +20,10 @@ const About = () => {
                         <p>My expertice is in backend coding, with an emphasis in React. I enjoy figuring out the puzzle of frontend development but the logic of backend coding comes more naturally. </p>
                     </div>
                     <div className="about-skills">
-                        <div className="about-skill"><p>HTML, CSS</p><hr style={{width:"50%"}}/></div>
-                        <div className="about-skill"><p>Javascript</p><hr style={{width:"70%"}}/></div>
-                        <div className="about-skill"><p>SQL, noSQL</p><hr style={{width:"600%"}}/></div>
-                        <div className="about-skill"><p>React</p><hr style={{width:"50%"}}/></div>
+                        <div className="about-skill"><p>HTML, CSS</p><hr style={{width:"60%"}}/></div>
+                        <div className="about-skill"><p>Javascript</p><hr style={{width:"67%"}}/></div>
+                        <div className="about-skill"><p>SQL, noSQL</p><hr style={{width:"70%"}}/></div>
+                        <div className="about-skill"><p>React</p><hr style={{width:"64%"}}/></div>
                     </div>
                 </div>
             </div>

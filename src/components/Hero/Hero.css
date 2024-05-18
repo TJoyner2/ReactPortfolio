@@ -1,4 +1,4 @@
-.hero{
+/* .hero{
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -15,7 +15,7 @@
     font-size: 90px;
     font-weight: 600;
 }
-/* TODO span tag doesnt seem to be working. small chance i missed an install  */
+/* TODO span tag doesnt seem to be working  */
 .hero h1 span{
     background: linear-gradient(250deg, #50B2DF .36%, #0A2164 102.06%);
     background-clip: text;
@@ -61,5 +61,5 @@
 
 .hero-resume:hover{
     transform: scale(2.05);
-}
+} */
 
